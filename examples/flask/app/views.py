@@ -5,9 +5,9 @@ from app import app, db
 from models import User
 
 # Facebook app details
-FB_APP_ID = ''
-FB_APP_NAME = ''
-FB_APP_SECRET = ''
+FB_APP_ID = '1667684763538899'
+FB_APP_NAME = 'kvltovinternet'
+FB_APP_SECRET = '09ace78fdc3591c2b22a8fa08a5ba618'
 
 
 @app.route('/')
